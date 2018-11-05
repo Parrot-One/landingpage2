@@ -1,0 +1,10 @@
+.btn-primary {
+    background-color: blue;
+   
+}
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+    background-color:goldenrod!important;
+}
+.bg-primary {
+    background-color: goldenrod!important;
+}
